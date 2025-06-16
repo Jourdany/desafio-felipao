@@ -32,4 +32,4 @@ else if (xpHeroi >= 1001){
 }
 
 //Mensagem com o resultado classificatório do herói:
-console.log("O Herói " + nomeHeroi +" está no nível " + nivel);
+console.log("O Herói de nome " + nomeHeroi +" está no nível de " + nivel);
